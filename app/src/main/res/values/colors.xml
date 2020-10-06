@@ -32,6 +32,7 @@
     <color name="BlueGradientMiddle50opacity">#803C7AEC</color>
     <color name="BlueGradientStart">#47C1F0</color>
     <color name="BlueGradientStart50opacity">#8047C1F0</color>
+
     <!--Red Gradient Colors-->
     <color name="RedGradientEnd">#FF4048</color>
     <color name="RedGradientMiddle">#F7555B</color>

@@ -20,6 +20,7 @@
     <string name="forgot_password_q_divided">Forgot \nPassword?</string>
     <string name="reset_password">Reset Password</string>
     <string name="complete_profile_header">Complete Profile</string>
+    <string name="hint_search_offers">Search offers</string>
     <string name="hint_phone">PHONE NUMBER</string>
     <string name="hint_languages">LANGUAGES</string>
     <string name="hint_years_of_experience">YEARS OF EXPERIENCE</string>
@@ -27,7 +28,15 @@
     <string name="submit_for_verification_button">Submit for verification</string>
     <string name="hint_nationality">NATIONALITY</string>
     <string name="interests">Interests</string>
+    <string name="home_title">HOME</string>
     <string name="hint_search_interests">Search Interests</string>
     <string name="save">save</string>
+    <string name="name">Name</string>
+    <string name="Language">Language</string>
+    <string name="Rating">Rating</string>
+    <string name="Tours">Tours</string>
+    <string name="Rate">Rate</string>
+<string name="Offers">Offers</string>
+    <string name="Branch">Branch</string>
 
 </resources>
